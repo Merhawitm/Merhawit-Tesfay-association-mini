@@ -1,6 +1,3 @@
-Perfect! Let’s tailor your **README.md** for **your project** (with shopping items like *Milk → Bread*) while keeping the nice structure of the example you gave. Here’s the customized version for **your association rule mining assignment**:
-
----
 
 # *merhawit-Association-Rule-Mining*
 
